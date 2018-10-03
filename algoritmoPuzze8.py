@@ -255,3 +255,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # Codigo desenvolvido com carinho e noites de sono perdidas por:
+    # José de Sousa Magalhaes
+    # Acadêmico do curso de Sistemas de Informaçao da UFPI.
