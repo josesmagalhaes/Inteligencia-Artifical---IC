@@ -75,7 +75,7 @@ int check_zero(int a[3][3])//retorna de 1 se 0.
      return flag;
 }
 
-int check_list(node *nd)//retorna 0 se n�o coincide com a lista
+int check_list(node *nd)//retorna 0 se não coincide com a lista
 {
     node *new_node=NULL;
     if(front_list==NULL)
@@ -395,3 +395,7 @@ int main()
     scanf("%d",&i);
     return 0;
 }
+
+    // Codigo desenvolvido com carinho e noites de sono perdidas por:
+    // José de Sousa Magalhaes
+    // Acadêmico do curso de Sistemas de Informaçao da UFPI.
